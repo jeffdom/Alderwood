@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alderwood",
-    "currentPage": "London",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -113,7 +113,7 @@
                 "showText": true,
                 "text": "Our “big class” at Shell road registers up to 25 children, 30 months - 5 years old.  The class spends half of the outside in the forest or garden, and the remainder of the day focuses on project-based learning and our social-emotional literacy program.  Children are not required to be potty trained to attend; meals are provided as part of this program.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Infants &amp;<br>Toddlers<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alderwood<br>London</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Infants &amp;<br>Toddlers<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"London\" data-toolbar=\"-mbrBtnMove\">Alderwood<br>London</a> "
               },
               {
                 "active": true,
@@ -126,7 +126,7 @@
                 "showText": true,
                 "text": "Hi!  You are welcome to our school!  I can’t wait to see you, we all can’t wait to see you!   You are going to make friends at school and play and learn and it is going to be so much fun that you won’t even believe it.  We might be here and you will meet us and maybe we will be friends.  Or maybe we will be grown up and at the Big Big School.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alderwood<br>Shell<br></a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alderwood<br>London<br></a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alderwood<br>Shell<br></a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"London\" data-toolbar=\"-mbrBtnMove\">Alderwood<br>London<br></a>"
               },
               {
                 "active": false,
