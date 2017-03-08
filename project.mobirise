@@ -154,6 +154,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "UL": {
+              "color": "#9c9c9c"
+            }
+          },
           "_anchor": "contacts1-5",
           "_params": {
             "paddingTop": "0",
@@ -186,12 +191,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Alderwood House School<br>12151 Shell Road<br>Richmond, BC V7A 3W9<br>School: (604) 272-5023<br>Admin:  (604) 377-8385<br>",
           "text2": "<strong>CONNECT</strong><br>\nEmail:&nbsp;<br>alderwoodinformation@<br>gmail.com<br>www.alderwoodhouse.com",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">A</a>bout</li><li>Curriculum</li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">R</a>egistration</li><li>Contact</li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#9c9c9c"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">A</a>bout</li><li>Curriculum</li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">R</a>egistration</li><li>Contact</li></ul>"
         }
       ]
     },
@@ -330,6 +330,59 @@
           "articleLayout": false
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/450-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/450-2000x1330.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/513-1-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/513-1-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/525-1-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/525-1-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/edited-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/edited-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/525-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/525-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/484-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/484-2000x1335.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-g",
+          "articleLayout": true
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -372,55 +425,6 @@
           "text1": "<strong>ADDRESS</strong><br>Alderwood House School<br>12151 Shell Road<br>Richmond, BC V7A 3W9<br>School: (604) 272-5023<br>Admin:  (604) 377-8385<br>",
           "text2": "<strong>CONNECT</strong><br>\nEmail:&nbsp;<br>alderwoodinformation@<br>gmail.com<br>www.alderwoodhouse.com",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">A</a>bout</li><li>Curriculum</li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">R</a>egistration</li><li>Contact</li></ul>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide2-small.jpg",
-                "image": "images/slide2.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide3-small.jpg",
-                "image": "images/slide3.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide4-small.jpg",
-                "image": "images/slide4.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide5-small.jpg",
-                "image": "images/slide5.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide6-small.jpg",
-                "image": "images/slide6.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide7-small.jpg",
-                "image": "images/slide7.jpg",
-                "active": true
-              }
-            ],
-            "showText": true,
-            "fullWidth": false,
-            "noGutter": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-g",
-          "articleLayout": true
         }
       ]
     }
