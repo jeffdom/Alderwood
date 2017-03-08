@@ -36,3 +36,40 @@
 #contacts1-5 UL {
   color: #9c9c9c;
 }
+
+#dropdown-menu-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-d .navbar-brand a {
+  font-family: 'Raleway', sans-serif;
+}
+#dropdown-menu-d .nav .link,
+#dropdown-menu-d .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-d .navbar,
+#dropdown-menu-d .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-d .dropdown-menu a:hover,
+#dropdown-menu-d .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-d .navbar-toggler {
+  color: #ffffff;
+}
+#slider-e P {
+  color: #000000;
+  text-align: right;
+}
+#slider-e .btn {
+  font-size: 16px;
+}
+#slider-e H1 {
+  color: #000000;
+}
+#contacts1-f UL {
+  color: #9c9c9c;
+}
