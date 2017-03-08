@@ -33,37 +33,6 @@
 #slider-4 H1 {
   color: #000000;
 }
-
-#dropdown-menu-6 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-6 .navbar-brand a {
-  font-family: 'Raleway', sans-serif;
-}
-#dropdown-menu-6 .nav .link,
-#dropdown-menu-6 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-6 .navbar,
-#dropdown-menu-6 .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-6 .dropdown-menu a:hover,
-#dropdown-menu-6 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-6 .navbar-toggler {
-  color: #ffffff;
-}
-#slider-7 P {
-  color: #000000;
-  text-align: right;
-}
-#slider-7 .btn {
-  font-size: 16px;
-}
-#slider-7 H1 {
-  color: #000000;
+#contacts1-5 UL {
+  color: #9c9c9c;
 }
